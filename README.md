@@ -1,1 +1,1 @@
-# gmall_parent
+# gmall-parent
