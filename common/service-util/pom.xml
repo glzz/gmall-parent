@@ -59,6 +59,12 @@
         </dependency>
 
     </dependencies>
-        <!--添加的内容这里结束-->
+
+    <build>
+    <defaultGoal>compile</defaultGoal>
+    <finalName>service-base</finalName>
+    </build>
+    <!--添加的内容这里结束-->
+
 
 </project>

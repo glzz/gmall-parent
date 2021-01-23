@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common-util/common-util.iml" filepath="$PROJECT_DIR$/common/common-util/common-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gmall-parent.iml" filepath="$PROJECT_DIR$/.idea/gmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-client/service-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service-product/service-product.iml" filepath="$PROJECT_DIR$/service/service-product/service-product.iml" />

@@ -8,6 +8,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/common/model/pom.xml" />
         <option value="$PROJECT_DIR$/common/web/pom.xml" />
         <option value="$PROJECT_DIR$/servlce-client/pom.xml" />
       </set>
