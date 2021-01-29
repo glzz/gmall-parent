@@ -10,7 +10,11 @@
       <set>
         <option value="$PROJECT_DIR$/common/model/pom.xml" />
         <option value="$PROJECT_DIR$/common/web/pom.xml" />
+        <option value="$PROJECT_DIR$/service-client/service-item-client/pom.xml" />
+        <option value="$PROJECT_DIR$/service-client/service-product-client/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-item/pom.xml" />
         <option value="$PROJECT_DIR$/servlce-client/pom.xml" />
+        <option value="$PROJECT_DIR$/web/web-all/pom.xml" />
       </set>
     </option>
   </component>
