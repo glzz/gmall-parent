@@ -17,10 +17,13 @@
     <description>service-product</description>
 
     <dependencies>
+
+        <!--添加的内容这里开始-->
         <dependency>
             <groupId>net.oschina.zcx7878</groupId>
             <artifactId>fastdfs-client-java</artifactId>
         </dependency>
+        <!--添加的内容这里结束-->
     </dependencies>
 
 
