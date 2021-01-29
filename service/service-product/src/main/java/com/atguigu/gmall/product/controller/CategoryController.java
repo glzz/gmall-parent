@@ -20,7 +20,7 @@ public class CategoryController {
     @Autowired
     private CategoryService categoryService;
     /**
-     * 1.查询所有的以及分类信息
+     * 1.获取一级分类
      *
      * @return
      */
@@ -33,7 +33,7 @@ public class CategoryController {
     }
 
     /**
-     *2. 根据一级分类Id 查询二级分类数据
+     *2. 获取二级分类
      *
      * @param category1Id
      * @return
@@ -46,7 +46,7 @@ public class CategoryController {
 
 
     /**
-     * 3.根据二级分类Id 查询三级分类数据
+     * 3.获取三级分类
      *
      * @param category2Id
      * @return

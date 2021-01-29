@@ -11,5 +11,22 @@
 
     <artifactId>web-util</artifactId>
 
+    <!--添加的内容这里开始-->
+    <dependencies>
+
+        <dependency>
+            <groupId>com.atguigu.gmall</groupId>
+            <artifactId>common-util</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+    </dependencies>
+
+        <!--添加的内容这里结束-->
+
 
 </project>
